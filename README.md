@@ -1,6 +1,7 @@
 # Day-1-Introduction-to-Agents
 
 During the 5-Day AI Agents Intensive Course with Google, I explored the fundamentals of AI Agents by completing codelabs on Kaggle.
+
 Day 1a - From Prompt to Action
 Day 1b - Agent Architecture
 
